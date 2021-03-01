@@ -1,4 +1,0 @@
-﻿  Igrica_marec.cpp
-C:\Users\Domen\source\repos\Igrica_marec\Igrica_marec\utils.h(7,11): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
-C:\Users\Domen\source\repos\Igrica_marec\Igrica_marec\Igrica_marec.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Igrica_marec.vcxproj -> C:\Users\Domen\source\repos\Igrica_marec\Debug\Igrica_marec.exe
